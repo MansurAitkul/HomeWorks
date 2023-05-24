@@ -27,3 +27,17 @@ if current in a:
     print("Полученная сумма: {:.2f} {}".format(convert, current))
 else:
     print("Выбрана недопустимая валюта.")
+
+
+###########################################################
+
+numbers = []
+qvadrat = []
+
+for a in range(1000+1):
+    numbers.append(a)
+    qavdrat.append(a ** 2)
+
+
+print("Массив чисел:", numbers)
+print("Массив квадратов чисел:", squares)
