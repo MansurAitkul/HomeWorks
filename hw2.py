@@ -40,4 +40,4 @@ for a in range(1000+1):
 
 
 print("Массив чисел:", numbers)
-print("Массив квадратов чисел:", squares)
+print("Массив квадратов чисел:", qvadrat)
